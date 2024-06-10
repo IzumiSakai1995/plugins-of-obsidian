@@ -19,3 +19,4 @@ Obisidan 的插件文件，仅用于同步/初始化仓库
 13. obsidian-tasks-plugin
 14. table-editor-obsidian
 15. media-extended
+16. Omniover
