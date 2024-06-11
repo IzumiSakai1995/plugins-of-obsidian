@@ -1,1 +1,18 @@
-[]
+[
+  "calendar",
+  "dataview",
+  "obsidian-mkdocs-publisher",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-kanban",
+  "media-extended",
+  "obsidian-outliner",
+  "quickadd",
+  "recent-files-obsidian",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "copilot",
+  "canvasblocks",
+  "table-editor-obsidian"
+]

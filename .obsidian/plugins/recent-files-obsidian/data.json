@@ -1,0 +1,29 @@
+{
+  "recentFiles": [
+    {
+      "basename": "dataview",
+      "path": "插件使用手册/dataview.md"
+    },
+    {
+      "basename": "kanban",
+      "path": "插件使用手册/kanban.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "kanban demo",
+      "path": "Demos/kanban demo.md"
+    },
+    {
+      "basename": "omnivore",
+      "path": "插件使用手册/omnivore.md"
+    },
+    {
+      "basename": "calendar",
+      "path": "插件使用手册/calendar.md"
+    }
+  ],
+  "omittedPaths": []
+}
